@@ -1,0 +1,3 @@
+2022-07-23T19:57:55.797329-0700 INFO Generating training example index file complete
+2022-07-23T19:57:55.797782-0700 INFO Start generating training example tfrecords
+2022-07-23T19:57:55.799089-0700 INFO Writing /Users/adam/Desktop/SJSU/CMPE249/Project/lanenet-lane-detection/data/train/tfrecords/tusimple_train.tfrecords....

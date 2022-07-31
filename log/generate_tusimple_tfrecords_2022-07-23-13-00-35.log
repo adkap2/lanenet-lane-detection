@@ -1,0 +1,12 @@
+2022-07-23T13:00:35.351287-0700 INFO Start generating training example tfrecords
+2022-07-23T13:00:35.358186-0700 INFO Writing /Users/adam/Desktop/SJSU/CMPE249/Project/lanenet-lane-detection/data/train/tfrecords/tusimple_train.tfrecords....
+2022-07-23T13:01:10.966006-0700 INFO Writing /Users/adam/Desktop/SJSU/CMPE249/Project/lanenet-lane-detection/data/train/tfrecords/tusimple_train.tfrecords complete
+2022-07-23T13:01:10.966323-0700 INFO Generating training example tfrecords complete
+2022-07-23T13:01:10.966480-0700 INFO Start generating validation example tfrecords
+2022-07-23T13:01:10.970328-0700 INFO Writing /Users/adam/Desktop/SJSU/CMPE249/Project/lanenet-lane-detection/data/train/tfrecords/tusimple_val.tfrecords....
+2022-07-23T13:01:13.137617-0700 INFO Writing /Users/adam/Desktop/SJSU/CMPE249/Project/lanenet-lane-detection/data/train/tfrecords/tusimple_val.tfrecords complete
+2022-07-23T13:01:13.137860-0700 INFO Generating validation example tfrecords complete
+2022-07-23T13:01:13.137977-0700 INFO Start generating testing example tfrecords
+2022-07-23T13:01:13.141091-0700 INFO Writing /Users/adam/Desktop/SJSU/CMPE249/Project/lanenet-lane-detection/data/train/tfrecords/tusimple_test.tfrecords....
+2022-07-23T13:01:17.221091-0700 INFO Writing /Users/adam/Desktop/SJSU/CMPE249/Project/lanenet-lane-detection/data/train/tfrecords/tusimple_test.tfrecords complete
+2022-07-23T13:01:17.221344-0700 INFO Generating testing example tfrecords complete
