@@ -1,0 +1,6 @@
+model_checkpoint_path: "tusimple_train_miou=0.6135.ckpt-4"
+all_model_checkpoint_paths: "tusimple_train_miou=0.6155.ckpt-0"
+all_model_checkpoint_paths: "tusimple_train_miou=0.6141.ckpt-1"
+all_model_checkpoint_paths: "tusimple_train_miou=0.6134.ckpt-2"
+all_model_checkpoint_paths: "tusimple_train_miou=0.6134.ckpt-3"
+all_model_checkpoint_paths: "tusimple_train_miou=0.6135.ckpt-4"
